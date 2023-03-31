@@ -1,0 +1,2 @@
+.a{background-color:red}.b{background-color:#c00}.c{background-color:#900}.d{background-color:#600}.e{background-color:#300}.f{background-color:#000}body{margin:0;font-family:Arial,Helvetica,sans-serif;font-size:100px;color:#fff}.conteiner{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}.conteiner__box{display:grid;height:300px;align-items:center;justify-items:center}@media (min-width:950px){.conteiner{grid-template-columns:repeat(3,minmax(300px,1fr))}}
+/*# sourceMappingURL=main.0403338b.css.map */
